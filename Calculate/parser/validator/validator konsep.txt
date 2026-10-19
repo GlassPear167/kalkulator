@@ -1,0 +1,8 @@
+ func WritingRuleChecker() (error, []int){
+
+
+for _,v:= rule[]func
+}
+
+
+melakukan for - range ke slieof function : []func(*model.Token)error,[]int{}
