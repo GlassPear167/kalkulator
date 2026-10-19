@@ -25,8 +25,13 @@ so you can call-it in every folder
 # simbol
 
 the simbol you can use is :
+
 "*" : times atau kali
+
 "/" : devide atau bagi
+
 "+" : add tau tambah
+
 "-" : subtract atau kurang 
+
 "()" : parenthesis
